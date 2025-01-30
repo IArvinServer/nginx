@@ -6,9 +6,9 @@ wget -O manage_nginx.sh "https://raw.githubusercontent.com//IArvinServer/nginx-I
 ipv6
 ~~~shell
 wget -O ipv6_manager.sh "https://raw.githubusercontent.com/IArvinServer/nginx-IPv6/refs/heads/main/ipv6_manager.sh" && chmod +x ipv6_manager.sh && ./ipv6_manager.sh
+~~~
 
 测速脚本
-
 ~~~shell
 wget -O speedtest_manager.sh "https://raw.githubusercontent.com/IArvinServer/nginx-IPv6/main/speedtest_manager.sh" && chmod +x speedtest_manager.sh && ./speedtest_manager.sh
 ~~~
