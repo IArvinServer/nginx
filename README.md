@@ -2,7 +2,7 @@
 
 ipv4
 ~~~shell
-wget -O manage_nginx.sh "https://raw.githubusercontent.com//IArvinServer/nginx/main/manage_nginx.sh" && chmod +x manage_nginx.sh && ./manage_nginx.sh
+wget -O manage_nginx.sh "https://raw.githubusercontent.com/IArvinServer/nginx/main/manage_nginx.sh" && chmod +x manage_nginx.sh && ./manage_nginx.sh
 ~~~
 ipv6
 ~~~shell
